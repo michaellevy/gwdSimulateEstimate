@@ -87,7 +87,7 @@ for (simParam in c("twopath", "gwd1.0", "degreepopularity", "twopath", "gwd0.25"
                   close(lg)
 
                   # If model didn't converge, get rid of the estimates
-                  if(class(m) != "ergm" | m$iterations == 50)
+                  if(class(m) != "ergm" || m$iterations == 50)
                     return(NULL)
 
                   # Something is causing failures here (I think it's here) with
