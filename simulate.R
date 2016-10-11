@@ -1,8 +1,9 @@
-if(!require("netUtils")) {
+if (!require("devtools")) install.packages("devtools", dependencies = TRUE)  # On aws had to install libssl-dev & libcurl4-gnutls-dev to work
+if (!require("pacman")) install.packages("pacman")
+if (!require("netUtils")) {
   install.packages("devtools")
   devtools::install_github("michaellevy/netUtils")
 }
-if (!require("pacman")) install.packages("pacman")
 pacman::p_load(statnet, tidyverse, netUtils, broom)
 set.seed(80112)
 
@@ -14,6 +15,8 @@ decays = c(.5, 2)  # 10^(seq(-1, .5, len = 5))  # May want better resolution her
 # Organized as models/generating_mechanism/constrained-or-density/fixed-or-CEF
 directory = "models/degPop/constrained/fixed"
 dir.create(directory, recursive = TRUE)
+
+start = Sys.time()
 
 estimates = 
   lapply(meanDegs, function(meanDeg) {
@@ -78,3 +81,6 @@ estimates =
   })
 
 write_csv(do.call(rbind, estimates), file.path(directory, "estimates.csv"))
+
+finish = Sys.time()
+finish - start
