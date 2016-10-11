@@ -51,7 +51,6 @@ for (simParam in c("twopath", "gwd1.0", "degreepopularity", "twopath", "gwd0.25"
                   , control = control.simulate(MCMC.burnin = 1e6, MCMC.interval = 1e6)
                 )
               
-              
               # lapply over theta_s values and estimate an ergm for each
               decaysWithinCoef = 
                 lapply(decays, function(decay) {
