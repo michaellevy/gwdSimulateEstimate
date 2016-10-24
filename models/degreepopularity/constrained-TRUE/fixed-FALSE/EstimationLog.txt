@@ -1,0 +1,289 @@
+
+At 2016-10-15 18:59:03  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.1
+
+At 2016-10-15 19:04:00  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.16
+
+At 2016-10-15 19:09:45  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.27
+
+At 2016-10-15 19:15:39  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.43
+
+At 2016-10-15 19:21:28  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.71
+
+At 2016-10-15 19:26:20  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 1.15
+Error in system(paste(which, shQuote(names[i])), intern = TRUE, ignore.stderr = TRUE) : 
+  cannot popen '/usr/bin/which 'pdflatex' 2>/dev/null', probable reason 'Cannot allocate memory'
+Error in system(paste(which, shQuote(names[i])), intern = TRUE, ignore.stderr = TRUE) : 
+  cannot popen '/usr/bin/which 'pdflatex' 2>/dev/null', probable reason 'Cannot allocate memory'
+
+At 2016-10-15 19:31:56  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 1.88
+
+At 2016-10-15 19:37:47  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 3.07
+
+At 2016-10-15 19:43:43  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 5.01
+
+At 2016-10-15 19:49:08  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.1
+
+At 2016-10-15 19:53:46  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.16
+
+At 2016-10-15 19:59:19  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.27
+
+At 2016-10-15 20:04:53  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.43
+
+At 2016-10-15 20:10:29  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.71
+
+At 2016-10-15 20:15:22  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 1.15
+
+At 2016-10-15 20:20:19  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 1.88
+
+At 2016-10-15 20:25:52  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 3.07
+
+At 2016-10-15 20:31:25  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 5.01
+
+At 2016-10-15 20:37:05  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.1
+
+At 2016-10-15 20:42:44  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.16
+
+At 2016-10-15 20:49:43  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.27
+
+At 2016-10-15 20:56:44  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.43
+
+At 2016-10-15 21:03:27  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.71
+
+At 2016-10-15 21:09:25  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 1.15
+
+At 2016-10-15 21:16:20  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 1.88
+
+At 2016-10-15 21:23:28  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 3.07
+
+At 2016-10-15 21:29:54  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 5.01
+
+At 2016-10-15 21:36:15  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 0.1
+
+At 2016-10-15 21:47:37  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 0.16
+
+At 2016-10-15 21:57:46  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 0.27
+
+At 2016-10-15 22:09:11  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 0.43
+
+At 2016-10-15 22:20:05  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 0.71
+
+At 2016-10-15 22:30:58  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 1.15
+
+At 2016-10-15 22:42:35  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 1.88
+
+At 2016-10-15 22:52:37  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 3.07
+
+At 2016-10-15 23:04:17  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 5.01
+
+At 2016-10-15 23:14:36  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 0.1
+
+At 2016-10-15 23:27:03  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 0.16
+
+At 2016-10-15 23:38:13  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 0.27
+
+At 2016-10-15 23:50:19  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 0.43
+
+At 2016-10-16 00:01:36  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 0.71
+
+At 2016-10-16 00:13:34  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 1.15
+
+At 2016-10-16 00:25:03  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 1.88
+
+At 2016-10-16 00:36:28  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 3.07
+
+At 2016-10-16 00:48:44  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 5.01
+
+At 2016-10-16 01:00:06  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 0.1
+
+At 2016-10-16 01:06:52  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 0.16
+
+At 2016-10-16 01:13:22  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 0.27
+
+At 2016-10-16 01:19:00  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 0.43
+
+At 2016-10-16 01:25:44  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 0.71
+
+At 2016-10-16 01:32:23  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 1.15
+
+At 2016-10-16 01:38:50  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 1.88
+
+At 2016-10-16 01:44:23  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 3.07
+
+At 2016-10-16 01:50:59  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 5.01
+
+At 2016-10-16 01:57:43  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 0.1
+
+At 2016-10-16 02:03:52  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 0.16
+
+At 2016-10-16 02:09:25  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 0.27
+
+At 2016-10-16 02:15:58  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 0.43
+
+At 2016-10-16 02:22:33  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 0.71
+
+At 2016-10-16 02:28:49  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 1.15
+
+At 2016-10-16 02:34:23  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 1.88
+
+At 2016-10-16 02:40:52  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 3.07
+
+At 2016-10-16 02:47:23  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 5.01
+
+At 2016-10-16 02:53:43  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 0.1
+
+At 2016-10-16 03:05:29  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 0.16
+
+At 2016-10-16 03:18:05  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 0.27
+
+At 2016-10-16 03:30:07  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 0.43
+
+At 2016-10-16 03:42:54  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 0.71
+
+At 2016-10-16 03:53:08  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 1.15
+
+At 2016-10-16 04:05:50  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 1.88
+
+At 2016-10-16 04:17:35  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 3.07
+
+At 2016-10-16 04:30:17  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 5.01
+
+At 2016-10-16 04:42:06  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 0.1
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:07  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 0.16
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:08  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 0.27
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:09  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 0.43
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:10  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 0.71
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:10  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 1.15
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:11  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 1.88
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:12  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 3.07
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:13  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 5.01
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:18  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 0.1
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:19  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 0.16
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:20  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 0.27
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:20  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 0.43
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:21  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 0.71
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:22  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 1.15
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:23  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 1.88
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:24  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 3.07
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:24  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 5.01
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:30  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 0.1
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:30  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 0.16
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:31  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 0.27
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:32  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 0.43
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:33  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 0.71
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:34  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 1.15
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:35  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 1.88
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:35  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 3.07
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:36  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 5.01
+Error in svd(X) : a dimension is zero
+
+At 2016-10-16 04:42:41  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 0.1
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 1.93043e-25
+
+At 2016-10-16 05:00:14  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 0.16
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 1.93043e-25
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-16 05:16:14  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 0.27
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 1.93043e-25
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-16 05:32:34  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 0.43
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 1.93043e-25
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-16 05:49:58  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 0.71
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 1.93043e-25
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-16 06:06:09  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 1.15
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 1.93043e-25
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-16 06:22:26  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 1.88
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 1.93043e-25
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-16 06:39:52  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 3.07
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 1.93043e-25
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-16 06:56:57  Sim'ing on degreepopularity, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 5.01
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 1.93043e-25
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.

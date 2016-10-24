@@ -1,0 +1,437 @@
+
+At 2016-10-12 04:45:57  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.1
+
+At 2016-10-12 04:55:41  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.16
+
+At 2016-10-12 05:05:51  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.27
+
+At 2016-10-12 05:16:44  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.43
+
+At 2016-10-12 05:26:15  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.71
+
+At 2016-10-12 05:37:08  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 1.15
+
+At 2016-10-12 05:46:58  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 1.88
+
+At 2016-10-12 05:58:00  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 3.07
+
+At 2016-10-12 06:08:43  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 5.01
+
+At 2016-10-12 06:18:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.1
+
+At 2016-10-12 06:24:33  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.16
+
+At 2016-10-12 06:30:43  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.27
+
+At 2016-10-12 06:35:57  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.43
+
+At 2016-10-12 06:41:36  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.71
+
+At 2016-10-12 06:47:46  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 1.15
+
+At 2016-10-12 06:54:40  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 1.88
+
+At 2016-10-12 07:00:06  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 3.07
+
+At 2016-10-12 07:05:37  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 5.01
+
+At 2016-10-12 07:11:44  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.1
+
+At 2016-10-12 07:18:37  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.16
+
+At 2016-10-12 07:24:51  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.27
+
+At 2016-10-12 07:30:55  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.43
+
+At 2016-10-12 07:37:49  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.71
+
+At 2016-10-12 07:44:36  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 1.15
+
+At 2016-10-12 07:50:38  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 1.88
+
+At 2016-10-12 07:57:01  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 3.07
+
+At 2016-10-12 08:03:50  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 5.01
+
+At 2016-10-12 08:10:49  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 0.1
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 08:48:05  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 0.16
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 09:26:44  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 0.27
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 10:04:09  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 0.43
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 10:42:48  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 0.71
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 11:20:29  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 1.15
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 11:58:52  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 1.88
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 12:36:32  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 3.07
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 13:14:42  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 5.01
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 13:52:43  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 0.1
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 14:31:36  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 0.16
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 15:11:13  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 0.27
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 15:49:48  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 0.43
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 16:29:41  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 0.71
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 17:08:18  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 1.15
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 17:48:08  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 1.88
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 18:26:53  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 3.07
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 19:05:57  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.5, decay = 5.01
+MCMLE estimation did not converge after 50 iterations. The estimated coefficients may not be accurate. Estimation may be resumed by passing the coefficients as initial values; see 'init' under ?control.ergm for details.
+
+
+At 2016-10-12 19:45:38  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 0.1
+
+At 2016-10-12 19:52:01  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 0.16
+
+At 2016-10-12 19:57:17  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 0.27
+
+At 2016-10-12 20:03:36  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 0.43
+
+At 2016-10-12 20:09:51  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 0.71
+
+At 2016-10-12 20:16:09  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 1.15
+
+At 2016-10-12 20:21:34  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 1.88
+
+At 2016-10-12 20:27:39  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 3.07
+
+At 2016-10-12 20:33:59  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: -0.17, decay = 5.01
+
+At 2016-10-12 20:40:24  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 0.1
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 2.52604e-24
+
+At 2016-10-12 20:47:29  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 0.16
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 2.52604e-24
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 20:55:48  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 0.27
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 2.52604e-24
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 21:04:16  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 0.43
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 2.52604e-24
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 21:11:40  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 0.71
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 2.52604e-24
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 21:19:42  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 1.15
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 2.52604e-24
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 21:27:59  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 1.88
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 2.52604e-24
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 21:35:39  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 3.07
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 2.52604e-24
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 21:43:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.17, decay = 5.01
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 2.52604e-24
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 21:51:50  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 0.1
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 8.27238e-22
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 22:00:20  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 0.16
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 8.27238e-22
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 22:08:48  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 0.27
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 8.27238e-22
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 22:17:41  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 0.43
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 8.27238e-22
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 22:25:48  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 0.71
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 8.27238e-22
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 22:34:18  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 1.15
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 8.27238e-22
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 22:43:18  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 1.88
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 8.27238e-22
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 22:51:28  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 3.07
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 8.27238e-22
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 23:00:05  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 3, coef: 0.5, decay = 5.01
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 8.27238e-22
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 23:09:11  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 0.1
+Error in svd(X) : a dimension is zero
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 23:09:12  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 0.16
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:13  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 0.27
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:14  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 0.43
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:15  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 0.71
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:16  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 1.15
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:17  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 1.88
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:18  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 3.07
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:19  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.5, decay = 5.01
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 0.1
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:27  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 0.16
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:28  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 0.27
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:29  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 0.43
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:30  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 0.71
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:31  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 1.15
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:32  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 1.88
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:33  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 3.07
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:36  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: -0.17, decay = 5.01
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:42  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 0.1
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:43  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 0.16
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:45  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 0.27
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:46  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 0.43
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:47  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 0.71
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:48  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 1.15
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:49  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 1.88
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:50  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 3.07
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:51  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.17, decay = 5.01
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:57  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 0.1
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:58  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 0.16
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:09:59  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 0.27
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:10:00  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 0.43
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:10:01  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 0.71
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:10:03  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 1.15
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:10:04  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 1.88
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:10:05  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 3.07
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 23:10:06  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 10, coef: 0.5, decay = 5.01
+Error in svd(X) : a dimension is zero
+
+At 2016-10-17 11:40:03  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.1
+
+At 2016-10-17 11:52:30  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.16
+
+At 2016-10-17 12:02:24  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.27
+
+At 2016-10-17 12:13:36  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.43
+
+At 2016-10-17 12:24:12  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 0.71
+
+At 2016-10-17 12:34:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 1.15
+
+At 2016-10-17 12:45:30  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 1.88
+
+At 2016-10-17 12:55:31  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 3.07
+
+At 2016-10-17 13:06:29  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.5, decay = 5.01
+
+At 2016-10-17 13:16:32  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.1
+
+At 2016-10-17 13:27:18  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.16
+
+At 2016-10-17 13:37:55  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.27
+
+At 2016-10-17 13:47:43  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.43
+
+At 2016-10-17 13:58:39  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 0.71
+
+At 2016-10-17 14:08:47  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 1.15
+
+At 2016-10-17 14:19:49  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 1.88
+
+At 2016-10-17 14:30:15  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 3.07
+
+At 2016-10-17 14:40:45  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: -0.17, decay = 5.01
+
+At 2016-10-17 14:52:00  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.1
+
+At 2016-10-17 15:02:11  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.16
+
+At 2016-10-17 15:13:40  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.27
+
+At 2016-10-17 15:23:59  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.43
+
+At 2016-10-17 15:35:34  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 0.71
+
+At 2016-10-17 15:46:04  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 1.15
+
+At 2016-10-17 15:57:09  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 1.88
+
+At 2016-10-17 16:08:27  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 3.07
+
+At 2016-10-17 16:19:01  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.17, decay = 5.01
+Error in system(paste(which, shQuote(names[i])), intern = TRUE, ignore.stderr = TRUE) : 
+  cannot popen '/usr/bin/which 'pdflatex' 2>/dev/null', probable reason 'Cannot allocate memory'
+
+At 2016-10-17 16:30:37  Sim'ing on twopath, edges constrained: TRUE, theta fixed: FALSE, mean degree: 1, coef: 0.5, decay = 0.1
+

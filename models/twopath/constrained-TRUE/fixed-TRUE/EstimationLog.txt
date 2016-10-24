@@ -1,0 +1,511 @@
+
+At 2016-10-11 23:52:03  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.1
+
+At 2016-10-11 23:52:20  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.16
+
+At 2016-10-11 23:52:37  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.27
+
+At 2016-10-11 23:52:54  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.43
+
+At 2016-10-11 23:53:11  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.71
+
+At 2016-10-11 23:53:27  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 1.15
+
+At 2016-10-11 23:53:44  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 1.88
+
+At 2016-10-11 23:54:01  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 3.07
+
+At 2016-10-11 23:54:17  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 5.01
+
+At 2016-10-11 23:54:34  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.1
+
+At 2016-10-11 23:54:52  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.16
+
+At 2016-10-11 23:55:11  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.27
+
+At 2016-10-11 23:55:29  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.43
+
+At 2016-10-11 23:55:47  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.71
+
+At 2016-10-11 23:56:05  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 1.15
+
+At 2016-10-11 23:56:24  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 1.88
+
+At 2016-10-11 23:56:42  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 3.07
+
+At 2016-10-11 23:57:01  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 5.01
+
+At 2016-10-11 23:57:20  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.1
+
+At 2016-10-11 23:57:41  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.16
+
+At 2016-10-11 23:58:02  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.27
+
+At 2016-10-11 23:58:23  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.43
+
+At 2016-10-11 23:58:44  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.71
+
+At 2016-10-11 23:59:05  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 1.15
+
+At 2016-10-11 23:59:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 1.88
+
+At 2016-10-11 23:59:47  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 3.07
+
+At 2016-10-12 00:00:09  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 5.01
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-12 00:00:32  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.1
+
+At 2016-10-12 00:00:53  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.16
+
+At 2016-10-12 00:01:15  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.27
+
+At 2016-10-12 00:01:37  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.43
+
+At 2016-10-12 00:02:00  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.71
+
+At 2016-10-12 00:02:31  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 1.15
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 00:02:31  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 1.88
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 00:02:32  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 3.07
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 00:02:32  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 5.01
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 00:02:33  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.1
+
+At 2016-10-12 00:03:02  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.16
+
+At 2016-10-12 00:03:32  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.27
+
+At 2016-10-12 00:04:01  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.43
+
+At 2016-10-12 00:04:30  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.71
+
+At 2016-10-12 00:04:58  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 1.15
+
+At 2016-10-12 00:05:27  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 1.88
+
+At 2016-10-12 00:05:57  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 3.07
+
+At 2016-10-12 00:06:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 5.01
+
+At 2016-10-12 00:06:56  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.1
+
+At 2016-10-12 00:07:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.16
+
+At 2016-10-12 00:07:56  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.27
+
+At 2016-10-12 00:08:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.43
+
+At 2016-10-12 00:08:56  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.71
+
+At 2016-10-12 00:09:25  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 1.15
+
+At 2016-10-12 00:09:54  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 1.88
+
+At 2016-10-12 00:10:25  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 3.07
+
+At 2016-10-12 00:10:55  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 5.01
+
+At 2016-10-12 00:11:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.1
+
+At 2016-10-12 00:12:13  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.16
+
+At 2016-10-12 00:13:01  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.27
+
+At 2016-10-12 00:13:37  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.43
+
+At 2016-10-12 00:14:14  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.71
+
+At 2016-10-12 00:14:50  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 1.15
+
+At 2016-10-12 00:15:22  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 1.88
+
+At 2016-10-12 00:16:02  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 3.07
+
+At 2016-10-12 00:16:33  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 5.01
+
+At 2016-10-12 00:17:03  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.1
+
+At 2016-10-12 00:18:08  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.16
+
+At 2016-10-12 00:19:29  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.27
+
+At 2016-10-12 00:20:37  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.43
+
+At 2016-10-12 00:21:45  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.71
+
+At 2016-10-12 00:22:43  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 1.15
+
+At 2016-10-12 00:30:08  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 1.88
+
+At 2016-10-12 00:38:30  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 3.07
+Error in ergm.CD.fixed(ifelse(is.na(init), 0, init), nw, m, control, MHproposal,  : 
+  Unconstrained CD sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-12 00:38:36  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 5.01
+Error in svd(X) : a dimension is zero
+
+At 2016-10-12 00:38:47  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.1
+
+At 2016-10-12 00:49:35  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.16
+
+At 2016-10-12 00:59:17  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.27
+
+At 2016-10-12 01:06:09  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.43
+
+At 2016-10-12 01:11:48  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.71
+
+At 2016-10-12 01:18:18  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 1.15
+
+At 2016-10-12 01:24:56  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 1.88
+
+At 2016-10-12 01:31:50  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 3.07
+
+At 2016-10-12 01:37:33  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 5.01
+
+At 2016-10-12 01:44:30  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.1
+
+At 2016-10-12 01:54:17  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.16
+
+At 2016-10-12 02:01:05  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.27
+
+At 2016-10-12 02:07:34  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.43
+
+At 2016-10-12 02:14:22  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.71
+
+At 2016-10-12 02:21:10  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 1.15
+
+At 2016-10-12 02:26:54  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 1.88
+
+At 2016-10-12 02:33:42  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 3.07
+
+At 2016-10-12 02:40:47  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 5.01
+
+At 2016-10-12 02:47:49  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.1
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+In addition: Warning messages:
+1: In ergm.MCMCse.lognormal(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+2: In ergm.MCMCse.lognormal(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+3: In ergm.MCMCse.lognormal(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+4: In ergm.MCMCse.lognormal(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+5: In ergm.MCMCse.lognormal(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-12 02:49:39  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.16
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-12 02:51:52  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.27
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-12 02:56:15  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.43
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-12 02:59:39  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.71
+
+At 2016-10-12 03:09:23  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 1.15
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-12 03:14:00  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 1.88
+
+At 2016-10-12 03:27:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 3.07
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-12 03:37:14  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 5.01
+
+At 2016-10-12 03:43:24  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.1
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-12 03:46:18  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.16
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-12 03:49:43  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.27
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-12 03:53:04  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.43
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-12 03:56:27  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.71
+
+At 2016-10-12 04:06:02  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 1.15
+
+At 2016-10-12 04:18:21  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 1.88
+
+At 2016-10-12 04:31:42  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 3.07
+
+At 2016-10-12 04:39:18  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 5.01
+
+At 2016-10-17 02:31:17  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.1
+
+At 2016-10-17 02:34:34  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.16
+
+At 2016-10-17 02:37:51  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.27
+
+At 2016-10-17 02:41:08  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.43
+
+At 2016-10-17 02:44:03  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.71
+
+At 2016-10-17 02:46:40  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 1.15
+
+At 2016-10-17 02:49:41  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 1.88
+
+At 2016-10-17 02:52:57  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 3.07
+
+At 2016-10-17 02:56:13  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 5.01
+
+At 2016-10-17 02:59:34  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.1
+
+At 2016-10-17 03:02:55  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.16
+
+At 2016-10-17 03:06:15  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.27
+
+At 2016-10-17 03:09:13  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.43
+
+At 2016-10-17 03:11:52  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.71
+
+At 2016-10-17 03:14:58  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 1.15
+
+At 2016-10-17 03:18:17  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 1.88
+
+At 2016-10-17 03:21:36  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 3.07
+
+At 2016-10-17 03:24:56  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 5.01
+
+At 2016-10-17 03:28:19  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.1
+
+At 2016-10-17 03:31:51  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.16
+
+At 2016-10-17 03:34:51  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.27
+
+At 2016-10-17 03:37:39  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.43
+
+At 2016-10-17 03:41:10  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.71
+
+At 2016-10-17 03:44:42  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 1.15
+
+At 2016-10-17 03:48:16  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 1.88
+
+At 2016-10-17 03:51:50  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 3.07
+
+At 2016-10-17 03:55:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 5.01
+
+At 2016-10-17 03:59:54  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.1
+
+At 2016-10-17 04:03:25  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.16
+
+At 2016-10-17 04:06:24  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.27
+
+At 2016-10-17 04:09:54  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.43
+
+At 2016-10-17 04:13:51  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.71
+
+At 2016-10-17 04:19:40  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 1.15
+Error in svd(X) : a dimension is zero
+
+At 2016-10-17 04:19:45  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 1.88
+Error in svd(X) : a dimension is zero
+
+At 2016-10-17 04:19:51  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 3.07
+Error in svd(X) : a dimension is zero
+
+At 2016-10-17 04:19:57  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 5.01
+Error in svd(X) : a dimension is zero
+
+At 2016-10-17 04:20:07  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.1
+
+At 2016-10-17 04:25:15  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.16
+
+At 2016-10-17 04:29:48  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.27
+
+At 2016-10-17 04:34:06  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.43
+
+At 2016-10-17 04:39:06  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.71
+
+At 2016-10-17 04:44:03  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 1.15
+
+At 2016-10-17 04:48:59  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 1.88
+
+At 2016-10-17 04:53:47  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 3.07
+
+At 2016-10-17 04:57:54  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 5.01
+
+At 2016-10-17 05:03:04  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.1
+
+At 2016-10-17 05:08:15  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.16
+
+At 2016-10-17 05:13:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.27
+
+At 2016-10-17 05:18:26  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.43
+
+At 2016-10-17 05:22:31  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.71
+
+At 2016-10-17 05:27:40  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 1.15
+
+At 2016-10-17 05:32:49  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 1.88
+
+At 2016-10-17 05:38:10  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 3.07
+
+At 2016-10-17 05:43:19  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 5.01
+
+At 2016-10-17 05:47:36  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.1
+
+At 2016-10-17 05:56:14  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.16
+
+At 2016-10-17 06:04:58  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.27
+
+At 2016-10-17 06:10:08  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.43
+
+At 2016-10-17 06:15:19  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.71
+
+At 2016-10-17 06:21:09  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 1.15
+
+At 2016-10-17 06:26:54  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 1.88
+
+At 2016-10-17 06:33:34  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 3.07
+
+At 2016-10-17 06:39:15  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 5.01
+
+At 2016-10-17 06:45:56  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.1
+
+At 2016-10-17 06:56:13  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.16
+
+At 2016-10-17 07:03:03  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.27
+
+At 2016-10-17 07:09:23  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.43
+
+At 2016-10-17 07:15:10  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.71
+
+At 2016-10-17 07:20:22  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 1.15
+
+At 2016-10-17 07:26:12  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 1.88
+
+At 2016-10-17 07:34:14  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 3.07
+Error in ergm.CD.fixed(ifelse(is.na(init), 0, init), nw, m, control, MHproposal,  : 
+  Unconstrained CD sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-17 07:34:22  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 5.01
+Error in ergm.CD.fixed(ifelse(is.na(init), 0, init), nw, m, control, MHproposal,  : 
+  Unconstrained CD sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-17 07:34:34  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.1
+
+At 2016-10-17 07:44:34  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.16
+
+At 2016-10-17 07:51:23  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.27
+
+At 2016-10-17 07:57:57  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.43
+
+At 2016-10-17 08:04:44  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.71
+
+At 2016-10-17 08:11:21  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 1.15
+
+At 2016-10-17 08:16:48  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 1.88
+
+At 2016-10-17 08:23:20  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 3.07
+
+At 2016-10-17 08:30:06  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 5.01
+
+At 2016-10-17 08:36:55  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.1
+
+At 2016-10-17 08:42:47  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.16
+
+At 2016-10-17 08:49:50  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.27
+
+At 2016-10-17 08:56:44  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.43
+
+At 2016-10-17 09:03:27  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.71
+
+At 2016-10-17 09:09:15  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 1.15
+
+At 2016-10-17 09:16:01  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 1.88
+
+At 2016-10-17 09:23:00  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 3.07
+
+At 2016-10-17 09:29:33  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 5.01
+
+At 2016-10-17 09:35:50  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.1
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+In addition: Warning messages:
+1: In ergm.MCMCse.lognormal(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+2: In ergm.MCMCse.lognormal(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+3: In ergm.MCMCse.lognormal(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+4: In ergm.MCMCse.lognormal(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+5: In ergm.MCMCse.lognormal(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-17 09:39:22  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.16
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-17 09:42:09  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.27
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-17 09:46:09  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.43
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-17 09:50:09  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.71
+
+At 2016-10-17 09:58:38  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 1.15
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-17 10:03:38  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 1.88
+
+At 2016-10-17 10:18:00  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 3.07
+
+At 2016-10-17 10:24:43  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 5.01
+
+At 2016-10-17 10:31:22  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.1
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-17 10:34:56  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.16
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-17 10:37:43  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.27
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-17 10:41:44  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.43
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-17 10:45:37  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.71
+
+At 2016-10-17 10:56:15  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 1.15
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-17 10:59:20  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 1.88
+
+At 2016-10-17 11:12:32  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 3.07
+
+At 2016-10-17 11:22:31  Sim'ing on twopath, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 5.01

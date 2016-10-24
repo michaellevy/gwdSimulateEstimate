@@ -1,0 +1,262 @@
+
+At 2016-10-16 07:13:12  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.1
+
+At 2016-10-16 07:15:41  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.16
+
+At 2016-10-16 07:18:10  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.27
+
+At 2016-10-16 07:20:39  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.43
+
+At 2016-10-16 07:23:09  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.71
+
+At 2016-10-16 07:25:40  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 1.15
+
+At 2016-10-16 07:28:09  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 1.88
+
+At 2016-10-16 07:30:41  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 3.07
+
+At 2016-10-16 07:33:06  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 5.01
+
+At 2016-10-16 07:35:09  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.1
+
+At 2016-10-16 07:37:15  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.16
+
+At 2016-10-16 07:39:48  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.27
+
+At 2016-10-16 07:42:26  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.43
+
+At 2016-10-16 07:45:04  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.71
+
+At 2016-10-16 07:47:43  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 1.15
+
+At 2016-10-16 07:50:22  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 1.88
+
+At 2016-10-16 07:53:02  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 3.07
+
+At 2016-10-16 07:55:42  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 5.01
+
+At 2016-10-16 07:58:16  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.1
+
+At 2016-10-16 08:00:26  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.16
+
+At 2016-10-16 08:02:32  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.27
+
+At 2016-10-16 08:05:09  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.43
+
+At 2016-10-16 08:07:48  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.71
+
+At 2016-10-16 08:10:28  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 1.15
+
+At 2016-10-16 08:13:09  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 1.88
+
+At 2016-10-16 08:15:50  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 3.07
+
+At 2016-10-16 08:18:31  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 5.01
+
+At 2016-10-16 08:21:16  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.1
+
+At 2016-10-16 08:23:45  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.16
+
+At 2016-10-16 08:25:58  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.27
+
+At 2016-10-16 08:28:21  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.43
+
+At 2016-10-16 08:31:06  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.71
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+In addition: Warning message:
+In ergm.MCMCse(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-16 08:32:30  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 1.15
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 08:33:39  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 1.88
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 08:34:48  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 3.07
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 08:35:49  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 5.01
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 08:36:42  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.1
+
+At 2016-10-16 08:40:01  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.16
+
+At 2016-10-16 08:43:21  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.27
+
+At 2016-10-16 08:46:41  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.43
+
+At 2016-10-16 08:49:33  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.71
+
+At 2016-10-16 08:52:12  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 1.15
+
+At 2016-10-16 08:55:26  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 1.88
+
+At 2016-10-16 08:58:46  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 3.07
+
+At 2016-10-16 09:02:06  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 5.01
+
+At 2016-10-16 09:05:30  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.1
+
+At 2016-10-16 09:08:50  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.16
+
+At 2016-10-16 09:12:11  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.27
+
+At 2016-10-16 09:14:56  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.43
+
+At 2016-10-16 09:17:37  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.71
+
+At 2016-10-16 09:20:56  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 1.15
+
+At 2016-10-16 09:24:18  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 1.88
+
+At 2016-10-16 09:27:43  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 3.07
+
+At 2016-10-16 09:31:06  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 5.01
+
+At 2016-10-16 09:34:33  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.1
+
+At 2016-10-16 09:37:50  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.16
+
+At 2016-10-16 09:40:29  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.27
+
+At 2016-10-16 09:43:14  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.43
+
+At 2016-10-16 09:46:35  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.71
+
+At 2016-10-16 09:49:56  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 1.15
+
+At 2016-10-16 09:53:18  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 1.88
+
+At 2016-10-16 09:56:44  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 3.07
+
+At 2016-10-16 10:00:12  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 5.01
+
+At 2016-10-16 10:03:27  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.1
+
+At 2016-10-16 10:06:04  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.16
+
+At 2016-10-16 10:08:56  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.27
+
+At 2016-10-16 10:12:12  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.43
+
+At 2016-10-16 10:15:31  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.71
+
+At 2016-10-16 10:18:47  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 1.15
+
+At 2016-10-16 10:22:18  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 1.88
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 10:24:02  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 3.07
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 10:25:09  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 5.01
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 10:26:03  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.1
+
+At 2016-10-16 10:29:32  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.16
+
+At 2016-10-16 10:32:45  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.27
+
+At 2016-10-16 10:36:44  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.43
+
+At 2016-10-16 10:40:46  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.71
+
+At 2016-10-16 10:44:47  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 1.15
+
+At 2016-10-16 10:48:45  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 1.88
+
+At 2016-10-16 10:52:48  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 3.07
+
+At 2016-10-16 10:56:05  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 5.01
+
+At 2016-10-16 10:59:53  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.1
+
+At 2016-10-16 11:03:53  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.16
+
+At 2016-10-16 11:07:58  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.27
+
+At 2016-10-16 11:11:55  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.43
+
+At 2016-10-16 11:15:53  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.71
+
+At 2016-10-16 11:19:25  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 1.15
+
+At 2016-10-16 11:22:36  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 1.88
+
+At 2016-10-16 11:26:43  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 3.07
+
+At 2016-10-16 11:30:54  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 5.01
+
+At 2016-10-16 11:35:03  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.1
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 11:36:12  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.16
+Error in solve.default(H) : 
+  system is computationally singular: reciprocal condition number = 1.7333e-16
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+In addition: Warning message:
+In ergm.MCMCse.lognormal(theta = theta, init = init, statsmatrix = statsmatrix0,  :
+  Approximate Hessian matrix is singular. Standard errors due to MCMC approximation of the likelihood cannot be evaluated. This is likely due to insufficient MCMC sample size or highly correlated model terms.
+
+At 2016-10-16 11:37:33  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.27
+
+At 2016-10-16 11:41:31  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.43
+
+At 2016-10-16 11:44:55  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.71
+
+At 2016-10-16 11:48:12  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 1.15
+
+At 2016-10-16 11:52:13  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 1.88
+
+At 2016-10-16 11:56:21  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 3.07
+
+At 2016-10-16 12:00:26  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 5.01
+
+At 2016-10-16 12:04:37  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.1
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 12:05:59  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.16
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 12:07:22  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.27
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 12:08:32  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.43
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 12:09:38  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.71
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 12:10:58  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 1.15
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 12:12:19  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 1.88
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 12:13:27  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 3.07
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-16 12:14:29  Sim'ing on degreepopularity, edges constrained: FALSE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 5.01
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.

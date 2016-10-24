@@ -1,0 +1,222 @@
+
+At 2016-10-13 21:18:19  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.1
+
+At 2016-10-13 21:21:54  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.16
+
+At 2016-10-13 21:24:54  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.27
+
+At 2016-10-13 21:27:48  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.43
+
+At 2016-10-13 21:31:22  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 0.71
+
+At 2016-10-13 21:34:59  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 1.15
+
+At 2016-10-13 21:38:36  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 1.88
+
+At 2016-10-13 21:42:15  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 3.07
+
+At 2016-10-13 21:45:54  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.5, decay = 5.01
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-13 21:51:59  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.1
+
+At 2016-10-13 21:55:14  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.16
+
+At 2016-10-13 21:58:39  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.27
+
+At 2016-10-13 22:02:02  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.43
+
+At 2016-10-13 22:05:26  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 0.71
+
+At 2016-10-13 22:08:49  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 1.15
+
+At 2016-10-13 22:12:13  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 1.88
+
+At 2016-10-13 22:15:02  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 3.07
+
+At 2016-10-13 22:17:45  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: -0.17, decay = 5.01
+
+At 2016-10-13 22:21:14  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.1
+
+At 2016-10-13 22:24:36  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.16
+
+At 2016-10-13 22:27:55  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.27
+
+At 2016-10-13 22:31:12  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.43
+
+At 2016-10-13 22:34:30  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 0.71
+
+At 2016-10-13 22:37:46  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 1.15
+
+At 2016-10-13 22:40:21  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 1.88
+
+At 2016-10-13 22:43:02  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 3.07
+
+At 2016-10-13 22:46:21  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.17, decay = 5.01
+
+At 2016-10-13 22:49:41  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.1
+
+At 2016-10-13 22:53:02  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.16
+
+At 2016-10-13 22:56:24  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.27
+
+At 2016-10-13 22:59:45  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.43
+
+At 2016-10-13 23:03:00  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 0.71
+
+At 2016-10-13 23:05:40  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 1.15
+
+At 2016-10-13 23:08:27  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 1.88
+
+At 2016-10-13 23:11:46  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 3.07
+
+At 2016-10-13 23:15:05  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 1, coef: 0.5, decay = 5.01
+
+At 2016-10-13 23:18:33  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.1
+
+At 2016-10-13 23:23:49  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.16
+
+At 2016-10-13 23:28:46  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.27
+
+At 2016-10-13 23:33:02  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.43
+
+At 2016-10-13 23:38:14  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 0.71
+
+At 2016-10-13 23:43:28  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 1.15
+
+At 2016-10-13 23:48:40  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 1.88
+
+At 2016-10-13 23:53:45  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 3.07
+
+At 2016-10-13 23:58:09  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.5, decay = 5.01
+
+At 2016-10-14 00:03:34  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.1
+
+At 2016-10-14 00:08:43  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.16
+
+At 2016-10-14 00:13:50  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.27
+
+At 2016-10-14 00:18:41  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.43
+
+At 2016-10-14 00:22:43  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 0.71
+
+At 2016-10-14 00:27:44  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 1.15
+
+At 2016-10-14 00:32:47  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 1.88
+
+At 2016-10-14 00:38:00  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 3.07
+
+At 2016-10-14 00:43:09  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: -0.17, decay = 5.01
+
+At 2016-10-14 00:47:24  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.1
+
+At 2016-10-14 00:52:29  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.16
+
+At 2016-10-14 00:57:38  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.27
+
+At 2016-10-14 01:02:46  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.43
+
+At 2016-10-14 01:07:54  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 0.71
+
+At 2016-10-14 01:12:00  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 1.15
+
+At 2016-10-14 01:16:58  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 1.88
+
+At 2016-10-14 01:22:17  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 3.07
+
+At 2016-10-14 01:27:38  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.17, decay = 5.01
+
+At 2016-10-14 01:32:58  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.1
+
+At 2016-10-14 01:37:05  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.16
+
+At 2016-10-14 01:42:04  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.27
+
+At 2016-10-14 01:47:11  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.43
+
+At 2016-10-14 01:52:17  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 0.71
+
+At 2016-10-14 01:57:22  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 1.15
+
+At 2016-10-14 02:01:26  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 1.88
+
+At 2016-10-14 02:06:18  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 3.07
+
+At 2016-10-14 02:11:30  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 3, coef: 0.5, decay = 5.01
+
+At 2016-10-14 02:16:50  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.1
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-14 02:23:57  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.16
+Error in ergm.MCMLE(init, nw, model, initialfit = (initialfit <- NULL),  : 
+  Unconstrained MCMC sampling did not mix at all. Optimization cannot continue.
+
+At 2016-10-14 02:31:06  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.27
+
+At 2016-10-14 02:42:33  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.43
+
+At 2016-10-14 02:49:12  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 0.71
+
+At 2016-10-14 02:55:18  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 1.15
+
+At 2016-10-14 03:02:17  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 1.88
+
+At 2016-10-14 03:09:28  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 3.07
+
+At 2016-10-14 03:15:54  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.5, decay = 5.01
+
+At 2016-10-14 03:22:44  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.1
+
+At 2016-10-14 03:29:43  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.16
+
+At 2016-10-14 03:36:46  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.27
+
+At 2016-10-14 03:42:29  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.43
+
+At 2016-10-14 03:49:24  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 0.71
+
+At 2016-10-14 03:56:21  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 1.15
+
+At 2016-10-14 04:03:12  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 1.88
+
+At 2016-10-14 04:09:16  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 3.07
+
+At 2016-10-14 04:16:32  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: -0.17, decay = 5.01
+
+At 2016-10-14 04:23:50  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.1
+
+At 2016-10-14 04:30:11  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.16
+
+At 2016-10-14 04:36:38  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.27
+
+At 2016-10-14 04:43:37  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.43
+
+At 2016-10-14 04:50:36  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 0.71
+
+At 2016-10-14 04:56:37  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 1.15
+
+At 2016-10-14 05:03:18  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 1.88
+
+At 2016-10-14 05:10:29  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 3.07
+
+At 2016-10-14 05:17:43  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.17, decay = 5.01
+
+At 2016-10-14 05:23:47  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.1
+
+At 2016-10-14 05:30:48  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.16
+
+At 2016-10-14 05:37:50  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.27
+
+At 2016-10-14 05:44:24  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.43
+
+At 2016-10-14 05:50:32  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 0.71
+
+At 2016-10-14 05:57:29  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 1.15
+
+At 2016-10-14 06:04:25  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 1.88
+
+At 2016-10-14 06:10:47  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 3.07
+
+At 2016-10-14 06:17:29  Sim'ing on gwd1.0, edges constrained: TRUE, theta fixed: TRUE, mean degree: 10, coef: 0.5, decay = 5.01
